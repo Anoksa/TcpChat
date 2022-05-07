@@ -32,3 +32,9 @@ C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\obj\Debug\
 C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\obj\Debug\Client.csproj.CopyComplete
 C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\obj\Debug\Client.exe
 C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\obj\Debug\Client.pdb
+C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\bin\Debug\MaterialDesignColors.dll
+C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\bin\Debug\MaterialDesignColors.pdb
+C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\univer\2 курс\2 сем\ксис\курсовой\Client\Client\obj\Debug\App.baml
